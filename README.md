@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @oscararmd
-- 👀 I’m interested in gdal, geopandas, pandas
+- 👋 Hi, I’m @oscararmd maestrando en cienca de datos con enfoque geoespacial
+- 👀 I’m interested in gdal, geopandas, pandas, rasterio
 - 🌱 I’m currently learning gdal
-- 💞️ I’m looking to collaborate on gdal
+- 💞️ I’m looking to collaborate on geopandas
 - 📫 How to reach me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
